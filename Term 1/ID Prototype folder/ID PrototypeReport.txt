@@ -1,0 +1,47 @@
+Report created: 
+	27/11/2023	19:48:58
+
+Project name: ID Prototype.aep
+
+Source files collected to: 
+	C:\Users\Fluke\Desktop\ID Prototype folder
+
+Source files collected: All
+
+Collected comps:  
+	Prototype
+	Intro
+	round 1
+	info
+	main body
+	proceed
+	
+Number of collected files:  11
+
+Size of collected files:  1.6 MB
+
+Collected source files: 
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\arrow white.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\arrow.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\button.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\no white.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\no.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\yes white.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Ideation\yes.png
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Image\2019-118_copy_141.jpg
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Image\clifton.jpeg
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Image\Da7eNU7XkAENz28.jpeg
+	C:\Users\Fluke\Desktop\Interaction_Design\Term 1\Image\Da7eNUqWkAEBGhZ.jpeg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Gaussian Blur
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Mid Century Sans”, Font style: “Bold”
+
