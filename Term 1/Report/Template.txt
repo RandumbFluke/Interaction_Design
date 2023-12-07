@@ -1,14 +1,18 @@
 Feedback from Rod:
-Train neutral gesture
-Get Andy to say No
-Video of someone performing gestures
 Read about motion detection
 
+Prototype video - https://youtu.be/1s3KQZPbQ7E
+Prototype video w/Acting - https://youtu.be/ZKTjHvtqv4U
+
 Report Structure:
+Abstract
 Initial research into location/thematic research (prototype explores an event, place, experience)
-Research into interactive designs
+ - suicide
+ - talking to guide at centre
+ - explored the area with initial questions
 Design brief/solution
-Early stage designs (sketches, drawings, wireframes)
+Early stage designs (sketches, drawings, wireframes) & Research into interactive designs
+ - amsterdam airport, sound designs, motion detection, colstons last journey
 Research into design theory and literature
 Final design solution and interactive task flow
 Final design solution and prototype
