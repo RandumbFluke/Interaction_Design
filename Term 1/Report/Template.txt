@@ -2,7 +2,7 @@ Feedback from Rod:
 Read about motion detection
 
 Prototype video - https://youtu.be/1s3KQZPbQ7E
-Prototype video w/Acting - https://youtu.be/ZKTjHvtqv4U
+Prototype video w/Acting - https://youtu.be/WvPmam5z2W0
 
 Report Structure:
 Abstract
@@ -13,6 +13,11 @@ Initial research into location/thematic research (prototype explores an event, p
 Design brief/solution
 Early stage designs (sketches, drawings, wireframes) & Research into interactive designs
  - amsterdam airport, sound designs, motion detection, colstons last journey
+ - users personas
+ - flow chart 
+ - mood board
+ - description of images
+ - storyboard
 Research into design theory and literature
 Final design solution and interactive task flow
 Final design solution and prototype
