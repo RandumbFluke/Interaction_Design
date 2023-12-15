@@ -11,6 +11,8 @@ Initial research into location/thematic research (prototype explores an event, p
  - talking to guide at centre
  - explored the area with initial questions
 Design brief/solution
+Design research
+ - references
 Early stage designs (sketches, drawings, wireframes) & Research into interactive designs
  - amsterdam airport, sound designs, motion detection, colstons last journey
  - users personas
@@ -18,7 +20,13 @@ Early stage designs (sketches, drawings, wireframes) & Research into interactive
  - mood board
  - description of images
  - storyboard
-Research into design theory and literature
-Final design solution and interactive task flow
 Final design solution and prototype
-Future changes to be made for final product
+ - my final approach
+ - how the final product will be created
+ - prototype
+Conclusion and Future Changes
+ - the importance of a stationary stance
+ - add more to the interaction and make more accessible
+ - bolster interaction to be more entertaining
+
+244 words in reference
