@@ -1,0 +1,5 @@
+Bees:
+- Vibrations to attract bees
+- Raising awareness about problem
+- Unity scene 
+- Game pollination - starts decaying still, collect dead bees
